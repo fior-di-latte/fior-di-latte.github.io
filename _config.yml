@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: Felix' Page
+title: Felix' home page
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: What's going on in Felix' l1fe?
 
 # Your name to show in the footer
-author: Some Person
+author: Felix
 
 # --- List of links in the navigation bar --- #
 
@@ -22,7 +22,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "felix.plagge@gmail.com"
+  facebook: felix.plagge
+  github: fior-di-latte
+  twitter: fiordilatte12
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: felix-plagge-036063178
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
