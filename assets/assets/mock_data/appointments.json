@@ -1,0 +1,170 @@
+{
+"hiveAppointments": [
+{"id":  "1", "date": "2023-04-12 12:58:25",
+  "customerId": "1",
+  "durationInMinutes": 45,
+  "status": "pending",
+	"comment": null
+},
+  {
+    "id": "2",
+    "date": "2023-04-12 10:00:00",
+    "customerId": "3",
+    "durationInMinutes": 60,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "3",
+    "date": "2023-04-12 14:30:00",
+    "customerId": "5",
+    "durationInMinutes": 45,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "4",
+    "date": "2023-04-13 11:15:00",
+    "customerId": "2",
+    "durationInMinutes": 30,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "5",
+    "date": "2023-04-13 15:00:00",
+    "customerId": "4",
+    "durationInMinutes": 90,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "6",
+    "date": "2023-04-14 09:45:00",
+    "customerId": "8",
+    "durationInMinutes": 60,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "7",
+    "date": "2023-04-14 13:30:00",
+    "customerId": "2",
+    "durationInMinutes": 45,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "8",
+    "date": "2023-04-18 10:15:00",
+    "customerId": "3",
+    "durationInMinutes": 30,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "9",
+    "date": "2023-04-18 14:00:00",
+    "customerId": "4",
+    "durationInMinutes": 90,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "10",
+    "date": "2023-04-18 15:30:00",
+    "customerId": "6",
+    "durationInMinutes": 60,
+    "status": "pending",
+	"comment": null
+  },
+  {
+    "id": "11",
+    "date": "2023-04-12 16:00:00",
+    "customerId": "2",
+    "durationInMinutes": 60,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "12",
+    "date": "2023-04-12 17:00:00",
+    "customerId": "3",
+    "durationInMinutes": 45,
+    "status": "pending",
+	"comment": null
+  }
+
+  ,{
+    "id": "13",
+    "date": "2023-04-13 10:30:00",
+    "customerId": "5",
+    "durationInMinutes": 30,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "14",
+    "date": "2023-04-13 13:15:00",
+    "customerId": "6",
+    "durationInMinutes": 90,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "15",
+    "date": "2023-04-14 11:45:00",
+    "customerId": "8",
+    "durationInMinutes": 60,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "16",
+    "date": "2023-04-14 15:30:00",
+    "customerId": "9",
+    "durationInMinutes": 45,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "17",
+    "date": "2023-04-18 09:15:00",
+    "customerId": "1",
+    "durationInMinutes": 30,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "18",
+    "date": "2023-04-18 11:00:00",
+    "customerId": "4",
+    "durationInMinutes": 90,
+    "status": "pending",
+	"comment": null
+  }
+,
+  {
+    "id": "19",
+    "date": "2023-04-18 12:30:00",
+    "customerId": "7",
+    "durationInMinutes": 60,
+    "status": "pending",
+	"comment": null
+  }
+]
+}
