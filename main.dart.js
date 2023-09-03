@@ -53552,7 +53552,7 @@ A.NA.prototype={
 H(a){var s,r=null,q=$.cS.ds(new A.eC(!1,r,t.Kr),t.uh),p=A.ip(B.a2A,A.N(a).CW,r,20),o=t.kK
 if(q.a){s=A.N(a).p3.ax
 s.toString
-s=A.Bo(A.hw(A.dq("Design inspired by Tobias Fried's homepage.Made using Flutter, Phosphoric Icons, Oswald Font.",new A.c5("showMoretrue)",o),r,r,s.Iu(A.N(a).CW,B.aQ),r),r,r,r,r,r,r),r,A.aJ(3e5,0),r)
+s=A.Bo(A.hw(A.dq("Design inspired by Tobias Fried's homepage.Made using Flutter, Phosphoric Icons, Bebas Neue Font.",new A.c5("showMoretrue)",o),r,r,s.Iu(A.N(a).CW,B.aQ),r),r,r,r,r,r,r),r,A.aJ(3e5,0),r)
 o=s}else{s=A.N(a).p3.ax
 s.toString
 s=A.Bo(A.hw(A.dq("About this homepage",new A.c5("showMorefalse)",o),r,r,s.Iu(A.N(a).CW,B.aQ),r),r,r,r,r,r,r),r,r,r)
