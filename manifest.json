@@ -5,18 +5,13 @@
     "display": "standalone",
     "background_color": "#171311",
     "theme_color": "#EE8C43",
-    "description": "A companion app for PaaS (Plants as a Service) companies.",
+    "description": "Felix Plagge's  website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
+            "src": "icons/favicon.png",
+            "sizes": "32x32",
             "type": "image/png"
         }
     ]
