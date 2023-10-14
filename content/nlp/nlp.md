@@ -2,7 +2,7 @@
 
 # 5 Practical Examples of NLP Use Cases
 
-## Summary
+## Management Summary
 
 In modern companies, information in text form can be found in many places in day-to-day business. Depending on the business context, this can involve invoices, emails, customer input (such as reviews or inquiries), product descriptions, explanations, FAQs, and applications. Until recently, these information sources were reserved mainly for human beings, as the understanding of a text is a technologically challenging problem for machines.
 

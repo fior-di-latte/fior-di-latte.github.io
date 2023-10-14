@@ -1,4 +1,5 @@
 ![](unsplash.com_photos_g3WFiDK5PQ0.jpg?raw=true)
+**TL;DR:** I created a little package that exports a call graph for any given Python script. It can be found [**on Github.**](https://github.com/fior-di-latte/project_graph)
 
 The more complex any given data science project in Python gets, the harder it naturally becomes to keep track of how all modules interact with each other. And certainly, when working in a team on a bigger project, the code base can sooner than you think grow to an extent where the complexity may seem daunting: In a typical scenario, each team member works in his or her "corner" of the project, leaving each one merely with firm *local* knowledge of the project's code but possibly only a vague idea of the overall project architecture. Ideally, however, everyone involved in the project should have a good *global*  overview of the project. By that I don't mean that one has to know how each function works internally but rather to know the responsibility of the main modules and how they are interconnected. 
 
@@ -102,6 +103,6 @@ This package has certain weaknesses, most of which can be addressed, e.g. by for
 * Nested functions will not show up in the graph. In particular, a decorator implicitly nests your function and will thus hide your function. That said, when using an external decorator, don't forget to add the decorator's package via the  `-x` flag (for example `project_graph -x numba myscript.py`).
 * If your self-written function is exclusively called from an external package's function, you need to manually add the external package with the `-x` flag. Otherwise, your function will not show up in the tree, as its parent is a external function and thus not considered.
 
-Feel free to use the little package for your own project, be it for performance analysis, code introductions for new team members or out of sheer curiousity. As for me, I find it very satisfying to see such a visualization of my projects. If you have trouble using it, don't hesitate to [hit me up on github](https://github.com/fior-di-latte/project_graph/).
+Feel free to use the little package for your own project, be it for performance analysis, code introductions for new team members or out of sheer curiousity. As for me, I find it very satisfying to see such a visualization of my projects. If you have trouble using it, don't hesitate to [hit me up on Github](https://github.com/fior-di-latte/project_graph/).
 
 PS: If you're looking for similar package in R, check out Jakob's post on [flowcharts of functions](https://www.statworx.com/de/blog/flowcharts-of-functions).

@@ -1,9 +1,4 @@
-[latexpage]
-
 ![social_network_stock](pics/social-network-stock.jpg)
-
- 
-
 "There is *no way* you know Thomas! What a coincidence! He's my best friend's saxophone teacher! This cannot be true. Here we are, at the other end of the world and *we* meet? What are the odds?" Surely, you have experienced similar situations, be it in a hotel's lobby, on the far away hiking trail or in the pub in that city you are completely new to. However, the very fact that this story is so suspiciously relatable might indicate that the chances of being socially connected to a stranger by a short chain of *friends of friends* aren't too low after all. 
 
 Lots of research has been done in this field, one particular popular result being the **6-Handshake-Rule**. It states that most people living on this planet are connected by a chain of six handshakes or less. In the general setting of *graphs,* in which *edges connect nodes*, this is often referred to as the so-called *small-world-effect*. That is to say, the typical number of edges needed to get from *node A* to *node B* grows logarithmically in population size (i.e., # nodes). Note that, up until now, no geographic distance has been included in our consideration, which seems inadequate as it plays a significant role in social networks.

@@ -1,3 +1,3 @@
-![](poisson.png)
+<img title="" src="poisson.png" alt="" width="456">
 
-**Random connection models** are versatile mathematical objects employed across different fields, including the study of social networks. *My Master Thesis* aims to understand and describe a new parametrization of those models, specifically by examining their properties related to clustering and graph distances. 
+My Master thesis focused on exploring random connection models, which are versatile mathematical tools employed across different fields, including the study of social networks. It aims to understand and describe a new parametrization of a special class of those models ("*scale-free percolation models in the continuum*")  by examining their properties related to clustering and graph distances. 
