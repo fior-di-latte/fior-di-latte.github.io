@@ -1,18 +1,35 @@
 {
-    "name": "Felix Plagge",
-    "short_name": "FP",
+    "name": "felix_homepage",
+    "short_name": "felix_homepage",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#171311",
-    "theme_color": "#EE8C43",
-    "description": "Felix Plagge's  website",
+    "theme_color": "#171311",
+    "description": "Felix writes about Flutter, Maths and life.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/favicon.png",
-            "sizes": "32x32",
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
             "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ]
 }
