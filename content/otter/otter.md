@@ -1,4 +1,4 @@
-<img src="file:///Users/felixplagge/code/felix_hompage/content/otter/time_square.jpeg" title="" alt="" width="268">
+![Time Square](time_square.jpeg)
 
 My app 'Otter Day' just made it onto the „The One“ billboard in Times Square, NYC!
 The reason behind this: It won the [Best Vibes award](https://devpost.com/software/otter-day-weekday-guesser) at RevenueCat's Shipaton for creative AI usage.
@@ -7,7 +7,7 @@ Heartfelt thanks to the amazing team at RevenueCat (+ sponsors) for hosting the 
 
 Also, it was great to see the city for the first time in real life. Unsurprisingly to me, it felt oddly familiar because of all the movies and TV shows I had seen that are based in the city. Besides visiting the tourist spots (Brooklyn Bridge, One World Trade Center, Museum of Modern Art, SOHO, Wall Street, Central Park, Broadway) I had on my list,  it was very delightful to just get lost for a few blocks just to find myself at another famous place (Oh, hi, Plaza Hotel and Trump Tower).
 
-![The Shipaton Award](/Users/felixplagge/code/felix_hompage/content/otter/win.jpeg)
+![The Shipaton Award](win.jpeg)
 
 # About the app:
 
